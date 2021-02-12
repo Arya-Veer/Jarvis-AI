@@ -1,0 +1,8 @@
+{
+    "python.testing.pytestArgs": [
+        "JARVIS-Udemy-Code-master"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.nosetestsEnabled": false,
+    "python.testing.pytestEnabled": true
+}
